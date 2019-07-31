@@ -1,2 +1,2 @@
 # tico
-A project with swift in backend
+An iOS application over a swift server
